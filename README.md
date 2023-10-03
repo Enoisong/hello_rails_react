@@ -51,7 +51,7 @@
     <li><a href="https://render.com/">Render</a></li>
     <li><a href="https://https://gorails.com/">Rails</a></li>
     <li><a href="https://betterprogramming.pub/react-with-rails-2022-bd28e1fcd355#ad0a/">How to Use React in a Ruby on Rails App"</a></li>
-
+    
   </ul>
 </details>
 
